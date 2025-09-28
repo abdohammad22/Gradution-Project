@@ -1,0 +1,4 @@
+14:2b:2f:c2:1f:7c mac address for ESP32 NUMBER 1
+
+
+d0:ef:76:57:8b:f0 mac address for ESP32 NUMBER 2
